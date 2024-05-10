@@ -43,5 +43,7 @@ print("square of numbers=",numbers ," is =",sq)
 #2nd case
 #if we increase program size but time almost remain constant  if we represnet on graph will give constant funcion time =a
 #order of growth big O=O(1)
+#binary search complexity is O(logn)
+#if no of element is 8 no of ietratin =3  how? log2^8=log2^2^3=3*log2^2=3*1=3
 
 
